@@ -35,10 +35,10 @@ Spring Boot `/actuator/env` difffing
 
 Compare two outputs from the Spring Boot `/actuator/env` endpoint to make sure the configs match. Especially useful when refactoring configuration properties.
 
-## How to run:
-```
-pipenv run python -m spring_boot_env_diff 20211018-properties-post.json 20211018-properties-pre.json
-```
+How to run:
+-----------
+
+| pipenv run python -m spring_boot_env_diff 20211018-properties-post.json 20211018-properties-pre.json
 
 Features
 --------
