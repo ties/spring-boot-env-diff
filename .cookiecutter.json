@@ -1,0 +1,10 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Ties de Kock",
+  "email": "ties@tiesdekock.nl",
+  "friendly_name": "Spring Boot `/actuator/env` difffing",
+  "github_user": "ties",
+  "package_name": "spring_boot_env_diff",
+  "project_name": "spring-boot-env-diff",
+  "version": "0.0."
+}
